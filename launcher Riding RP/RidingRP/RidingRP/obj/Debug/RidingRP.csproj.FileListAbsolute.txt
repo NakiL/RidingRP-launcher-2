@@ -1,0 +1,17 @@
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.csprojAssemblyReference.cache
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.Form1.resources
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.Properties.Resources.resources
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.csproj.GenerateResource.cache
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.csproj.CoreCompileInputs.cache
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\RidingRP.exe.config
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\RidingRP.exe
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\RidingRP.pdb
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.exe
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.pdb
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\fr\RidingRP.resources.dll
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.Form1.fr.resources
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\fr\RidingRP.resources.dll
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\RidingRP.exe.manifest
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\bin\Debug\RidingRP.application
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.exe.manifest
+C:\Users\kylia\OneDrive\Bureau\launcher Riding RP\RidingRP\RidingRP\obj\Debug\RidingRP.application
